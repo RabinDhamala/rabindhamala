@@ -26,10 +26,6 @@ Productive innovative mind with experience of both hardware and software knowled
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
-## 🎓 Education
-**B.E. Electronics & Communication Engineering**, IOE Thapathali Campus (2015–2019)  
-Thesis: *Automatic Image Captioning with Text‑to‑Speech*
-
 ---
 
 ## 🗂️ Featured Projects
